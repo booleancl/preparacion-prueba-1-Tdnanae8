@@ -22,7 +22,7 @@ cd ..
 mkdir programacion
 cd programacion
 mkdir modulo-00
-cd modulo
+cd modulo-00
 touch index.md
 cd ..
 mkdir modulo-01
